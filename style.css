@@ -1,0 +1,27 @@
+p{
+    margin: 0;
+}
+.font-xs{
+    font-size: 14px;
+}
+.font-sm{
+    font-size: 16px;
+}
+.payment-status-w{
+    width: 70px;
+}
+.invoice-list-doted-h{
+    padding: 6px;
+}
+.product-img-h{
+    height: 32px;
+    width: 32px;
+}
+.my-border-e{
+    border-right: 2px dashed gray;
+}
+.border-bottom-dotted {
+    border-bottom: 1px dotted red;
+    width: 100%;
+    font-weight: 400;
+}
