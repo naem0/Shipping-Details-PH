@@ -1,5 +1,17 @@
 p{
-    margin: 0;
+    margin: 0 !important;
+}
+.bg-secondary-color{
+    background-color: #F05A2F;
+}
+.bg-praymary-color{
+    background-color: #48B193;
+}
+.bg-lite-dark{
+    background: #F7F7F7 !important;
+}
+.praymary-color{
+    color: #48B193;
 }
 .font-xs{
     font-size: 14px;
@@ -21,7 +33,13 @@ p{
     border-right: 2px dashed gray;
 }
 .border-bottom-dotted {
-    border-bottom: 1px dotted red;
+    border-bottom: 1px dotted black;
     width: 100%;
     font-weight: 400;
+}
+.border-bottom-2{
+    border-bottom: 2px solid #4E4A4B;
+}
+.font-width-medium{
+    font-weight: 500;
 }
